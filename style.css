@@ -1,0 +1,73 @@
+body {
+
+margin:0;
+padding:800px ;
+text-align:center ;
+
+}
+#LionelMessiPicture1 {
+
+margin-top:  250px; ;
+width: 175px; ;
+margin-bottom:50px ;
+border-radius:50px ;
+}
+
+#Home {
+
+position: absolute;
+height: 800px;
+bottom: 0;
+top: 0;
+left: 0;
+right: 0;
+background: linear-gradient(#2a60de 0%,#03fcf8 100%)
+   
+}
+
+.Home {
+position:absolute ;
+background: white;
+width: 100%;
+font-family: 'Inter', sans-serif;
+margin-top:0px ;
+top:0px; 
+z-index:10 ;
+cursor:pointer ;
+}
+
+.links {
+color: black;
+padding-left: 33px;
+padding-right: 25px;
+font-size: 20px;
+display:inline;
+font-family: 'Inter', sans-serif;
+
+}
+
+.links:hover{
+background-color: red;
+font-size: 25px;
+}
+h1 {
+
+    font-family: 'Inter', sans-serif;
+
+}
+h3 {
+
+    font-family: 'Inter', sans-serif;
+
+
+}
+
+#videos {
+text-align:center ;
+
+}
+.contact_1 h3
+{
+display:inline ;
+
+}
